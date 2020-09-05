@@ -1,0 +1,50 @@
+#circle1 {
+    background-color: red;
+    display: inline-block;
+    margin-left:425px;
+  }
+  #circle2 {
+    background-color: green;
+    display: inline-block;
+    margin-left:425px;
+  }
+  #circle3 {
+    background-color: rgb(32, 212, 203);
+    display: inline-block;
+    margin-left:425px;
+  }
+  .round{
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+  }
+  h1{
+      text-align: center;
+  }
+  #in{
+      margin-left: 700px;
+  }
+  #btn{
+      height: 30px;
+      width: 200px;
+      margin-left: 150px;
+  }
+  img{
+      width: 300px;
+      height: 500px;
+      margin-left: 820px;
+      margin-top: 100px;
+  }
+ #gif:hover{
+    width: 5px;
+    height: 5px;
+    transition: 5s;
+  }
+  #gif:active{
+    -webkit-transform: rotate(90deg);
+    -moz-transform: rotate(90deg);
+    -o-transform: rotate(90deg);
+    -ms-transform: rotate(90deg);
+    transform: rotate(90deg);
+    transition: 2s;
+  }
