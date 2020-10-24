@@ -2,55 +2,8 @@
     color: white;
     margin-left: 30px;
 }
-.visit{
-    color: #47bbd6;
-}
 
 
-
-#ipad{
-    width: 400px;
-    margin-bottom: 50px;
-}
-#chcs{
-    padding-top: 30px;
-    text-align: center;
-    margin-bottom: 30px;
-    font-size: 20pt;
-    margin-left: 31%;
-    width: 520pt;
-    height: 30px;
-    color: #4cffcd;
-
-}
-#chcst{
-    text-align: center;
-    margin-top: 4%;
-    font-size: 15pt;
-    width: 520pt;
-    margin-left: 31%;
-    height: 60px;
-    color: #4cffcd;
-}
-i{
-    float: left;
-    width: 30px;
-    height: 30px;
-}
-#right{
-    margin-left: 40pt;
-}
-#picture{
-    background-image: url(img/background1.jpg);
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-attachment: fixed;
-}
-.sp-field {
-    margin-left: 44%;
-    width: 135pt;
-}
 #contact {
     color: white; 
     margin-top: 40pt;
@@ -64,28 +17,11 @@ i{
 #example {
     width: 60%;
 }
-#android{
-    margin-left: 30px;
-}
-#windows{
-    margin-left: 50px;
-}
-#logo{
-    margin-top: 30px;
-    display: flex;
-}
+
+
 #navbar{
     margin-top: 30px;
     color: #CCCCCC;
-}
-
-#banner{
-    margin-top: 30px;
-    /* height: 400px; */
-}
-#logopng {
-    width: 50px;
-    height: 50px;
 }
 #logotext {
     margin-left: 10px;
@@ -99,9 +35,8 @@ i{
     color: #4cffcd;
 }
 #info{
-    height: 400px;
-    opacity: 0.7;
-    background-color: #457196;
+    height: 800px;
+    background-color: #4571966b;
 }
 #cnctus {
     color: rgb(122, 191, 236);
@@ -143,4 +78,9 @@ i{
     background-size: cover;
     background-attachment: fixed;
     height: 80%;
+}
+#carouselExampleSlidesOnly {
+    width: 1000px;
+    margin-left: calc(50vw - 500px);
+    padding-top: 87px;
 }
