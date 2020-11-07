@@ -31,9 +31,10 @@
     color: #4cffcd;
 }
 #info{
-    height: 800px;
     background-color: #4571966b;
 }
+
+
 #cnctus {
     color: rgb(122, 191, 236);
     text-align: center; 
@@ -81,14 +82,21 @@
     padding-top: 30px;
 }
 #pictures {
+    width: 1000px;
     margin: 0px;
     padding: 0px;
-    margin-left: calc(50vw - 565px);
+    margin-left: calc(50vw - 500px);
+
+    /* border-top: white dotted 4px; */
+}
+
+#pictures *{
+    margin:0;
+    padding:0;
 }
 .elements {
     width: 250px;
     height: 150px;
-    margin-left: 10px;
 }
 
 
